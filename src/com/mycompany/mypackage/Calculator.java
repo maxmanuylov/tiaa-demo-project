@@ -10,7 +10,7 @@ public class Calculator {
   }
 
   public int multiply(final int a, final int b) {
-    return a * b;
+    return a * b1;
   }
 
   public int divide(final int a, final int b) {
