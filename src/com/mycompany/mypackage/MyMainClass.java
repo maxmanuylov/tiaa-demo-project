@@ -1,6 +1,6 @@
 package com.mycompany.mypackage;
 
-public class MyMainClass { // main class
+public class MyMainClass { // main class, comment
   public static void main(String[] args) {
     try {
       final int a = Integer.parseInt(args[0]);
