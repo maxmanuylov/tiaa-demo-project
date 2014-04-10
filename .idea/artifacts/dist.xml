@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="dist">
+    <output-path>$PROJECT_DIR$/out/artifacts/dist</output-path>
+    <root id="root">
+      <element id="archive" name="app.jar">
+        <element id="module-output" name="tiaa-demo-project" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
